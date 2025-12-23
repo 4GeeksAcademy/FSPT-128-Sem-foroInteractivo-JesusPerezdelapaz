@@ -1,3 +1,11 @@
+body{
+    background-image: url("https://images.pexels.com/photos/139303/pexels-photo-139303.jpeg?cs=srgb&dl=pexels-joshsorenson-139303.jpg&fm=jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
 .rectangle{
     background-color: black;
     margin: 50px auto;
